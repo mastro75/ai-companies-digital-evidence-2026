@@ -56,6 +56,12 @@ Aunque se trata de un sitio web conocido, la consulta realizada a Common Crawl n
 
 Durante la investigación también encontré páginas que bloqueaban el acceso automatizado, errores técnicos y dominios en venta. **No todas las respuestas negativas significan lo mismo.**
 
+**La distribución de señales: Título vs DNS/MX**
+
+Para entender mejor la relación entre las señales, el siguiente gráfico muestra cómo se distribuyen los resultados de DNS/MX dentro de cada categoría de título HTML:
+
+![Distribución de señales: Título vs DNS/MX](images/grafico_distribucion.png)
+
 ### 2. Las herramientas también tienen limitaciones: el caso del análisis semántico
 
 Quise explorar qué decían los títulos HTML sobre la actividad de los sitios. Para eso utilicé un diccionario de palabras clave que buscaba referencias a inteligencia artificial, software, consultoría y otros servicios.
@@ -65,6 +71,14 @@ Pero al revisar resultados clasificados como *Otros (no clasificado)*, encontré
 > *«IA en producción, dentro de tu operación»*
 
 El título hacía referencia a inteligencia artificial, pero el diccionario no lo reconoció porque no contemplaba `IA` como término independiente. Un detalle pequeño, pero importante para interpretar los resultados. **Automatizar una clasificación no elimina la necesidad de revisar lo que devuelve.**
+
+**La tercera señal: el Título HTML**
+
+Para confirmar que el título es una señal tan válida como el DNS, cruzamos ambas variables. El Heatmap muestra esta relación:
+
+![Heatmap: Título vs DNS/MX](images/grafico_heatmap.png)
+
+El **93.8%** de los dominios con un título válido tenían correo activo (`MX_FOUND`). Esto demuestra que el título es una fuente de evidencia semántica tan fuerte como el DNS.
 
 ### 3. Cruzar fuentes permitió encontrar evidencia que antes no veíamos
 
