@@ -36,6 +36,8 @@ Por eso amplié la investigación incorporando otras fuentes: **registros DNS/MX
 
 Al combinar las fuentes, encontré evidencia digital en **927 dominios adicionales**.
 
+![Cobertura acumulada de evidencia digital](images/grafico_rescate.png)
+
 El resultado más interesante no fue descubrir cuántas empresas seguían funcionando, sino **cuánto cambia lo que podemos observar cuando dejamos de depender de una sola fuente**.
 
 ---
