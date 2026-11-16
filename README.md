@@ -50,6 +50,8 @@ Common Crawl permitió identificar capturas para el 59,6% de los dominios analiz
 
 Pero ¿qué significa realmente no encontrar una captura? Para entenderlo, hice una comprobación exploratoria con un sitio conocido: `nytimes.com`.
 
+![El sitio respondió: Bloqueo de acceso](images/fig5a_unknown_block.png)
+
 Aunque se trata de un sitio web conocido, la consulta realizada a Common Crawl no devolvió capturas que cumplieran los criterios utilizados para los dos períodos analizados. **La ausencia de resultados en Common Crawl no demuestra que un sitio haya dejado de existir**.
 
 *Este ejemplo fue una prueba externa al dataset, no una de las empresas analizadas.*
@@ -102,6 +104,8 @@ El notebook incluye visualizaciones para comprender:
 - Qué diferencias aparecen según la especialización en IA registrada en 2022.
 - Cómo se distribuyen algunas de estas evidencias entre países y regiones.
 - Qué situaciones técnicas explican algunos resultados inesperados.
+
+![Distribución geográfica: Mapa rescate triangulación](images/mapa_rescate_2026.png)
 
 👉 **[Explorar el notebook completo](notebooks/AI_Companies_2026_Digital_Evidence.ipynb)**
 
