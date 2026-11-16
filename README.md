@@ -50,15 +50,15 @@ Common Crawl permitió identificar capturas para el 59,6% de los dominios analiz
 
 Pero ¿qué significa realmente no encontrar una captura? Para entenderlo, hice una comprobación exploratoria con un sitio conocido: `nytimes.com`.
 
-![El sitio respondió: Bloqueo de acceso](images/fig5a_unknown_block.png)
-
 Aunque se trata de un sitio web conocido, la consulta realizada a Common Crawl no devolvió capturas que cumplieran los criterios utilizados para los dos períodos analizados. **La ausencia de resultados en Common Crawl no demuestra que un sitio haya dejado de existir**.
 
-*Este ejemplo fue una prueba externa al dataset, no una de las empresas analizadas.*
+*Este ejemplo del nytimes.com fue una prueba externa al dataset, no una de las empresas analizadas.*
 
 Durante la investigación también encontré páginas que bloqueaban el acceso automatizado, errores técnicos y dominios en venta. **No todas las respuestas negativas significan lo mismo.**
 
+A la consulta realizada con Common Crawl, abajo la imagen de la respuesta a un dominio analizado:
 
+![El sitio respondió: Bloqueo de acceso](images/fig5a_unknown_block.png)
 
 ### 2. Las herramientas también tienen limitaciones: el caso del análisis semántico
 
