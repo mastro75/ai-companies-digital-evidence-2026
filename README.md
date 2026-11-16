@@ -56,11 +56,7 @@ Aunque se trata de un sitio web conocido, la consulta realizada a Common Crawl n
 
 Durante la investigación también encontré páginas que bloqueaban el acceso automatizado, errores técnicos y dominios en venta. **No todas las respuestas negativas significan lo mismo.**
 
-**La distribución de señales: Título vs DNS/MX**
 
-Para entender mejor la relación entre las señales, el siguiente gráfico muestra cómo se distribuyen los resultados de DNS/MX dentro de cada categoría de título HTML:
-
-![Distribución de señales: Título vs DNS/MX](images/grafico_distribucion.png)
 
 ### 2. Las herramientas también tienen limitaciones: el caso del análisis semántico
 
@@ -78,7 +74,8 @@ Para confirmar que el título es una señal tan válida como el DNS, cruzamos am
 
 ![Heatmap: Título vs DNS/MX](images/grafico_heatmap.png)
 
-El **93.8%** de los dominios con un título válido tenían correo activo (`MX_FOUND`). Esto demuestra que el título es una fuente de evidencia semántica tan fuerte como el DNS.
+El **93,8%** de los dominios con un título HTML válido también presentaban registros MX identificados (MX_FOUND).
+Esta coincidencia muestra cómo ambas señales se complementan, aunque cada una aporta información diferente.
 
 ### 3. Cruzar fuentes permitió encontrar evidencia que antes no veíamos
 
@@ -87,6 +84,12 @@ De los 1.250 dominios sin capturas en Common Crawl, **826 tenían registros MX i
 Al combinar las fuentes, la cobertura pasó del **59,6% al 89,6%**.
 
 Estos resultados muestran por qué una sola fuente no alcanzaba para responder la pregunta inicial. El análisis no consistió solamente en recuperar más información. También implicó **entender qué significaba cada señal y dónde seguía existiendo incertidumbre**.
+
+**La distribución de señales: Título vs DNS/MX**
+
+Para entender mejor la relación entre las señales, el siguiente gráfico muestra cómo se distribuyen los resultados de DNS/MX dentro de cada categoría de título HTML:
+
+![Distribución de señales: Título vs DNS/MX](images/grafico_distribucion.png)
 
 ---
 
@@ -130,7 +133,7 @@ Por eso el dataset público utiliza **identificadores internos** en lugar de nom
 
 ## 📁 Estructura del repositorio
 ```text
-ai-companies-2026-evidence/
+ai-companies-digital-evidence-2026/
 │
 ├── README.md
 ├── LICENSE
