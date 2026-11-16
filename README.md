@@ -93,6 +93,18 @@ Para entender mejor la relación entre las señales, el siguiente gráfico muest
 
 ![Distribución de señales: Título vs DNS/MX](images/grafico_distribucion.png)
 
+### 4. El foco en IA de 2022 y la evidencia digital de 2026
+
+En AI Companies 1 clasifiqué a las empresas según el lugar que ocupaba la inteligencia artificial en su oferta: principal, predominante, complementaria o residual.
+
+En este segundo proyecto retomé esa clasificación para explorar si existían diferencias en la evidencia digital encontrada en 2026.
+
+![Cobertura digital en 2026 según el foco en IA de 2022](images/cobertura_digital_2026_foco_IA.png)
+
+El resultado fue interesante: **los dominios de empresas clasificadas con IA residual presentaron mayor cobertura en Common Crawl y DNS/MX que los de empresas donde la IA era la actividad principal**.
+
+Esto no significa que unas empresas hayan sobrevivido más que otras. Muestra diferencias en la evidencia digital observada según su perfil registrado en 2022.
+
 ---
 
 ## 📊 Explorar los resultados
