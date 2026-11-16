@@ -84,7 +84,7 @@ El notebook incluye visualizaciones para comprender:
 - Cómo se distribuyen algunas de estas evidencias entre países y regiones.
 - Qué situaciones técnicas explican algunos resultados inesperados.
 
-👉 **[Explorar el notebook completo](notebooks/AI_Companies_2_Public.ipynb)**
+👉 **[Explorar el notebook completo](notebooks/AI_Companies_2026_Digital_Evidence.ipynb)**
 
 ---
 
