@@ -1,0 +1,90 @@
+﻿iso_code,Pais,dominios,coincidencias,porcentaje
+ARE,United Arab Emirates,39,27,69.2308
+ARG,Argentina,29,26,89.6552
+ARM,Armenia,11,9,81.8182
+AUS,Australia,96,62,64.5833
+AUT,Austria,4,3,75.0
+AZE,Azerbaijan,2,2,100.0
+BEL,Belgium,5,4,80.0
+BGD,Bangladesh,19,13,68.4211
+BGR,Bulgaria,20,14,70.0
+BHR,Bahrain,1,1,100.0
+BIH,Bosnia and Herzegovina,5,3,60.0
+BRA,Brazil,21,16,76.1905
+CAN,Canada,126,96,76.1905
+CHE,Switzerland,21,19,90.4762
+CHL,Chile,13,11,84.6154
+COL,Colombia,43,30,69.7674
+CYP,Cyprus,5,4,80.0
+CZE,Czech Republic,24,18,75.0
+China,China,87,44,50.5747
+Costa Rica,Costa Rica,9,8,88.8889
+DEU,Germany,47,37,78.7234
+DNK,Denmark,6,4,66.6667
+ECU,Ecuador,6,2,33.3333
+ESP,Spain,29,22,75.8621
+EST,Estonia,17,15,88.2353
+El Salvador,El Salvador,5,2,40.0
+FIN,Finland,7,6,85.7143
+FRA,France,14,11,78.5714
+GBR,United Kingdom,304,206,67.7632
+GEO,Georgia,4,2,50.0
+GRC,Greece,2,2,100.0
+Guatemala,Guatemala,2,2,100.0
+HKG,Hong Kong,12,10,83.3333
+HRV,Croatia,17,13,76.4706
+HUN,Hungary,6,5,83.3333
+IND,India,441,317,71.8821
+IRL,Ireland,8,6,75.0
+ISR,Israel,10,9,90.0
+ITA,Italy,18,15,83.3333
+JOR,Jordan,2,2,100.0
+Jamaica,Jamaica,1,1,100.0
+Japan,Japan,8,6,75.0
+KAZ,Kazakhstan,3,1,33.3333
+KEN,Kenya,3,3,100.0
+LKA,Sri Lanka,15,8,53.3333
+LTU,Lithuania,12,9,75.0
+LUX,Luxembourg,1,1,100.0
+LVA,Latvia,2,2,100.0
+MAR,Morocco,3,3,100.0
+MDA,Moldova,2,0,0.0
+MEX,Mexico,31,21,67.7419
+MKD,North Macedonia,7,3,42.8571
+MLT,Malta,2,2,100.0
+MYS,Malaysia,8,5,62.5
+NAM,Namibia,1,1,100.0
+NGA,Nigeria,4,2,50.0
+NLD,Netherlands,26,22,84.6154
+NOR,Norway,3,3,100.0
+NPL,Nepal,3,2,66.6667
+NZL,New Zealand,4,4,100.0
+OMN,Oman,1,1,100.0
+PAK,Pakistan,61,47,77.0492
+PER,Peru,7,3,42.8571
+PHL,Philippines,6,5,83.3333
+POL,Poland,146,120,82.1918
+PRT,Portugal,9,7,77.7778
+Panama,Panama,3,1,33.3333
+Puerto Rico,Puerto Rico,2,1,50.0
+ROU,Romania,27,19,70.3704
+SAU,Saudi Arabia,5,4,80.0
+SGP,Singapore,24,19,79.1667
+SRB,Serbia,13,11,84.6154
+SVK,Slovakia,5,5,100.0
+SVN,Slovenia,1,1,100.0
+SWE,Sweden,7,6,85.7143
+SWZ,Eswatini,1,1,100.0
+SYC,Seychelles,1,1,100.0
+South Korea,South Korea,2,1,50.0
+THA,Thailand,5,4,80.0
+TUR,Turkey,18,16,88.8889
+TZA,Tanzania,4,1,25.0
+UGA,Uganda,1,0,0.0
+UKR,Ukraine,92,66,71.7391
+URY,Uruguay,22,20,90.9091
+USA,USA,917,664,72.41
+UZB,Uzbekistan,1,0,0.0
+VNM,Vietnam,29,22,75.8621
+XKX,Kosovo,2,2,100.0
+ZAF,South Africa,7,7,100.0
